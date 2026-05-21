@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
 
 <br/>
 
@@ -84,16 +84,14 @@ shivani = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivaniharane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniharane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivaniharane&theme=tokyonight&hide_border=true" height="180"/>
-</div>
+| Project | What it does | Stack | Metric |
+|---|---|---|---|
+| [GenAI Research Paper Assistant](#) | Production RAG pipeline — hybrid BM25 + vector retrieval + LLMOps monitoring | LangChain · Cohere · ChromaDB · Prometheus | 0.87+ relevance |
+| [AI Email Reply Agent](#) | Multi-agent triage — sentiment + RAG + real-time search | CrewAI · GPT-4o-mini · DistilBERT · Streamlit | 85%+ accuracy |
+| [Customer Support Ticket Tagger](#) | Fine-tuned DeBERTa for multi-class classification | DeBERTa · Hugging Face · RAGAS | +14 F1 pts |
+| [LLM Fine-Tuning — FAQ Bot](#) | Llama 3 8B with LoRA/QLoRA — faster, leaner, accurate | Llama 3 · LoRA · QLoRA · Unsloth | 2.4× speedup |
 
 ---
 
