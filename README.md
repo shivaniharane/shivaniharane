@@ -84,17 +84,6 @@ shivani = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack | Metric |
-|---|---|---|---|
-| [GenAI Research Paper Assistant](#) | Production RAG pipeline — hybrid BM25 + vector retrieval + LLMOps monitoring | LangChain · Cohere · ChromaDB · Prometheus | 0.87+ relevance |
-| [AI Email Reply Agent](#) | Multi-agent triage — sentiment + RAG + real-time search | CrewAI · GPT-4o-mini · DistilBERT · Streamlit | 85%+ accuracy |
-| [Customer Support Ticket Tagger](#) | Fine-tuned DeBERTa for multi-class classification | DeBERTa · Hugging Face · RAGAS | +14 F1 pts |
-| [LLM Fine-Tuning — FAQ Bot](#) | Llama 3 8B with LoRA/QLoRA — faster, leaner, accurate | Llama 3 · LoRA · QLoRA · Unsloth | 2.4× speedup |
-
----
-
 <div align="center">
   <i>MS in Computer Science · Binghamton University · GPA 3.6</i><br/>
   <i>Open to GenAI · LLM Engineer · RAG Engineer · AI Application Engineer roles</i><br/><br/>
